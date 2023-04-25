@@ -16,8 +16,6 @@ body {
     background-image: linear-gradient( 210deg, #00a3c0, #182830, #182830);
 }
 
-@media only screen and (min-width: 330px) and (max-width:480px) {
-
     nav {
         margin-top: 4%;
     }
@@ -104,4 +102,3 @@ body {
         border: 3px solid #00a3c0;
         font-family: 'Quicksand', sans-serif;
     }
-}
